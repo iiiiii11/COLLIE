@@ -64,5 +64,5 @@ For zero-shot evaluation, please see `zero_shot_eval.py`.
 
 ## Acknowledgement
 
-This code repo based on [CSF repo](https://github.com/Princeton-RL/contrastive-successor-features), and benefits from the following repos. Thanks for their wonderful work.
+This code repo is based on [CSF repo](https://github.com/Princeton-RL/contrastive-successor-features), and benefits from the following repos. Thanks for their wonderful work.
 * Safety Gym: https://github.com/openai/safety-gym
