@@ -1,6 +1,6 @@
 # COLLIE: Guiding Skill Discovery in Semantically Coherent Latent Space
 
-This is the official implementation of COLLIE.
+This is the official implementation of COLLIE (ICML 2026 poster, [OpenReview](https://openreview.net/forum?id=LMBt26pQj1)).
 
 
 ## Requirements
@@ -66,3 +66,18 @@ For zero-shot evaluation, please see `zero_shot_eval.py`.
 
 This code repo is based on [CSF repo](https://github.com/Princeton-RL/contrastive-successor-features), and benefits from the following repos. Thanks for their wonderful work.
 * Safety Gym: https://github.com/openai/safety-gym
+
+
+## Citation
+
+If you find this project helpful, please consider citing the following paper:
+
+```bibtex
+@inproceedings{luan2026collie,
+    title={{COLLIE}: Guiding Skill Discovery in Semantically Coherent Latent Space},
+    author={Yao Luan and Ni Mu and Hanfei Ge and Yiqin Yang and Bo XU and Qing-Shan Jia},
+    booktitle={Forty-third International Conference on Machine Learning},
+    year={2026},
+    url={https://openreview.net/forum?id=LMBt26pQj1}
+}
+```
